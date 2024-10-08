@@ -1,7 +1,4 @@
-python-playground
-=================
-[dirkarnez/python-portable](https://github.com/dirkarnez/python-portable)
-
-### Installing packages
-1. fill in package name with version to `requirements.txt`
-2. `install-package.cmd`
+scipy-playground
+================
+### TODOs
+- [Optimization (scipy.optimize) — SciPy v1.14.1 Manual](https://docs.scipy.org/doc/scipy/tutorial/optimize.html)
